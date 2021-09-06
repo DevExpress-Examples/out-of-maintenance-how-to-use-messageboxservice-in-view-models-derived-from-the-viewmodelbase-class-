@@ -1,8 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 16
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleMessageBoxService.Wpf", "ExampleMessageBoxService.Wpf.csproj", "{5E5A7DBC-5FE8-4AF3-9C68-79A8AD440903}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ExampleMessageBoxService.Wpf", "ExampleMessageBoxService.Wpf.Net5.vbproj", "{5E5A7DBC-5FE8-4AF3-9C68-79A8AD440903}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
